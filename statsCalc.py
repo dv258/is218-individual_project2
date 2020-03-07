@@ -1,3 +1,7 @@
+from descriptiveStatistics import DescriptiveStatistics
+from populationSample import PopulationSampling
+
+
 class StatsCalc:
 	def __init__(self):
 		self.result = None
